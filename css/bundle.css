@@ -22,6 +22,11 @@ span {
     font-size: 100%
 }
 
+body:after {
+    content: url(../img/old.webp) url(../img/mainbg.webp) url(../img/young-face.webp);
+    display: none;
+}
+
 footer,
 header,
 section {
