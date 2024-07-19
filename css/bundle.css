@@ -1173,7 +1173,8 @@ label {
 }
 
 .opinion2_section .opinion_block .photo {
-    display: block
+    display: block;
+    max-width:420px;
 }
 
 .opinion2_section .text_block {
