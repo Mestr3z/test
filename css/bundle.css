@@ -515,7 +515,7 @@ section .image {
 .offer_section .info_block {
     position: relative;
     min-height: 524px;
-    background-image: url(../img/mainbg.png);
+    background-image: url(../img/mainbg.webp);
     -webkit-background-size: cover;
     background-size: cover;
     position: relative
@@ -528,7 +528,7 @@ section .image {
     transform: translateX(-50%);
     width: 100%;
     min-height: 524px;
-    background-image: url(../img/old.png);
+    background-image: url(../img/old.webp);
     -webkit-background-size: auto 100%;
     background-size: auto 100%;
     background-repeat: no-repeat;
@@ -597,7 +597,7 @@ section .image {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url(../img/young-face.jpg) no-repeat center top;
+    background: url(../img/young-face.webp) no-repeat center top;
     -webkit-background-size: auto 95%;
     background-size: auto 95%;
     -webkit-transform: scaleY(0) translateZ(0);
