@@ -483,7 +483,9 @@ section .image {
     line-height: 44px;
     text-align: center;
     position: relative;
-    overflow: hidden
+    overflow: hidden;
+    background: #c39c00 linear-gradient(90deg, #c7aa5c 0, #fbe096 54.14%, #d7bc75 100%);
+    color: #333;
 }
 
 .offer_section .main_title:before {
